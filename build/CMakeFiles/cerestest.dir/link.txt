@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/cerestest.dir/cerestest.cpp.o  -o cerestest -rdynamic /usr/local/lib/libceres.a -lglog -lspqr -ltbb -ltbbmalloc -lcholmod -lccolamd -lcamd -lcolamd -lamd -llapack -lblas -lsuitesparseconfig -lrt -llapack -lblas -lsuitesparseconfig -lrt -lgomp -lpthread 

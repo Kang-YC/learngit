@@ -1,0 +1,5 @@
+/home/kang/dev/test/build/CMakeFiles/edit_cache.dir
+/home/kang/dev/test/build/CMakeFiles/helloworld.dir
+/home/kang/dev/test/build/CMakeFiles/rebuild_cache.dir
+/home/kang/dev/test/build/CMakeFiles/cerestest.dir
+/home/kang/dev/test/build/CMakeFiles/pararead.dir
