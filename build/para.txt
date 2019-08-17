@@ -1,0 +1,6 @@
+#Parameter
+SAMPLE_VIDEO_PATH 1112/12
+#
+SOURCE_VIDEO_PATH ../../../FFOutput/
+#
+INDEX_NAME test_video_duplicate

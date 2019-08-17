@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/pararead.dir/pararead.cpp.o  -o pararead -rdynamic 
